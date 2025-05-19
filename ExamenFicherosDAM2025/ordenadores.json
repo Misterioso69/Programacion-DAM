@@ -1,0 +1,21 @@
+{
+	"cantidadMaxima":10,
+	"listaOrdenadores":[
+	{
+	"modelo":"HP 15 pulgadas",
+	"precio":750,
+	"anio":2023
+	},
+	{
+	"modelo":"Vivo book 16",
+	"precio":600,
+	"anio":2020
+	},
+	{
+	"modelo":"MacBook Air",
+	"precio":1500,
+	"anio":2025
+}
+	
+	]
+}

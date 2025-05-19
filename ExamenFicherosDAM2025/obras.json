@@ -1,0 +1,21 @@
+{
+	"cantidadMaxima":13,
+	"galeria":[
+	{
+	"titulo":"La noche estrellada",
+	"autor":"Vincent van Gogh",
+	"anio":1889
+	},
+	{
+	"titulo":"las señoritas de avignon",
+	"autor":"Pablo Picasso",
+	"anio":1907
+	},
+	{
+	"titulo":"Paseo a orillas del mar",
+	"autor":"Joaquín Sorolla",
+	"anio":1909
+}
+	
+	]
+}

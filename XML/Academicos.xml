@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listaAcademicos>
+    <nombre>Club ajedrez</nombre>
+    <cantidad>3</cantidad>
+    <academicos>
+        <academico>
+            <nombre_academico>iker</nombre_academico>
+            <año_ingreso>2005</año_ingreso>
+        </academico>
+        <academico>
+            <nombre_academico>tomas</nombre_academico>
+            <año_ingreso>2005</año_ingreso>
+        </academico>
+        <academico>
+            <nombre_academico>jorge</nombre_academico>
+            <año_ingreso>2006</año_ingreso>
+        </academico>
+    </academicos>
+</listaAcademicos>

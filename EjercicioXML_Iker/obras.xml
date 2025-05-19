@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Galeria>
+    <Lista_de_Galeria>
+        <Obra Id="1">
+            <Titulo>obra1</Titulo>
+            <Autor>autor1</Autor>
+            <Tecnica_utilizada>tecnica1</Tecnica_utilizada>
+            <Fecha_de_creacion>fecha1</Fecha_de_creacion>
+        </Obra>
+        <Obra Id="2">
+            <Titulo>obra2</Titulo>
+            <Autor>autor2</Autor>
+            <Tecnica_utilizada>tecnica2</Tecnica_utilizada>
+            <Fecha_de_creacion>fecha2</Fecha_de_creacion>
+        </Obra>
+        <Obra Id="4">
+            <Titulo>obra4</Titulo>
+            <Autor>autor4</Autor>
+            <Tecnica_utilizada>tecnica4</Tecnica_utilizada>
+            <Fecha_de_creacion>fecha4</Fecha_de_creacion>
+        </Obra>
+    </Lista_de_Galeria>
+</Galeria>
